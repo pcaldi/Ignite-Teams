@@ -36,6 +36,7 @@ export  function Groups() {
             message="Cadastre a primeira turma!"
           />
         )}
+        showsVerticalScrollIndicator={false}
      />
       <Button
         title='Criar nova turma'
