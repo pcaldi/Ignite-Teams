@@ -30,11 +30,11 @@ Aplicativo para fazer organizaçao, separando por turmas podendo criar varios gr
 
 ```bash
 # Execute o comando git clone para realizar o clone do repositório
-$ git clone https://github.com/pcaldi/ignite-teams.git
+$ git clone https://github.com/pcaldi/igniteteams.git
 # ou execute
-$ gh repo clone pcaldi/ignite-teams
+$ gh repo clone pcaldi/igniteteams
 # Entre na pasta do repositório clonado
-$ cd ignite-teams
+$ cd igniteteams
 ```
 
 Dependências e inicialização:
