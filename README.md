@@ -1,5 +1,8 @@
 <h1 align="center">:file_cabinet:Ignite Team</h1>
 
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/84635540/210188699-667d5ef1-9a5a-411f-9e0e-0bfe75ee0dfc.png" width="150px" alt="Home Image"/>
+</div>
 
 
 <div align="center">
